@@ -1,0 +1,18 @@
+{
+    "name": "shambhu384/commerce-admin-bundle",
+    "authors": [
+        {
+            "name": "Shambhu Kumar",
+            "email": "shambhu384@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tiny\\CommerceAdminBundle\\": "./src"
+        }
+    },
+    "require": {
+        "doctrine/orm": "^2.7",
+        "symfony/serializer": "^5.1"
+    }
+}
