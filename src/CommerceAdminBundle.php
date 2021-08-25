@@ -1,6 +1,6 @@
 <?php
 
-namespace Tiny\CommerceApiBundle;
+namespace Tiny\CommerceAdminBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
